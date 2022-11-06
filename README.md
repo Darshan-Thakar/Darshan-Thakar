@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Darshan-Thakar
-- 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Machine learning 
+- 👀 I’m interested in Natural language processing, Machine learning and Deep learning
+- 🌱 I’m currently specializing in NLP
 - 💞️ I’m looking to collaborate on Web development projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... Email:- vilasthakar712@gmail.com
+
 - 
 
 <!---
